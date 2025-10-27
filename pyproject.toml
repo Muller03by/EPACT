@@ -18,7 +18,7 @@ classifiers = [
 ]
 dependencies = [
     "torch~=2.0",
-    "biopython==1.83",
+    "biopython>=1.83",
     "easydict==1.11",
     "PyYAML==6.0",
     "numpy~=1.25",
